@@ -158,3 +158,133 @@ applications used by millions.
 ### ⭐ Part 2 continues with GitHub Stats, Activity Graph, Snake Animation, 3D Contributions, GitHub Metrics, and more.
 
 </div>
+
+
+
+
+---
+
+# 🚀 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Sameer9teen&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer9teen&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer9teen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer9teen&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer9teen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer9teen&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer9teen&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sameer9teen&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# ⚡ GitHub Metrics
+
+<div align="center">
+
+<img width="95%" src="https://metrics.lecoq.io/Sameer9teen?template=classic&config.timezone=Asia%2FKolkata"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sameer9teen/Sameer9teen/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎮 Pac-Man Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sameer9teen/Sameer9teen/output/pacman-contribution-graph-dark.svg"/>
+
+</div>
+
+---
+
+# 🌟 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=github_dark"/>
+
+</div>
+
+---
+
+# 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/00FFFF/Sameer9teen"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+
+## ⭐ Continue to Part 3 ⭐
+
+</div>
+
+
+
