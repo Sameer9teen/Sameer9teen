@@ -1,290 +1,238 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,11,20,24,30&text=MOHAMMED%20SAMEER&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Backend%20Developer%20|%20Flutter%20Developer%20|%20Java%20Spring%20Boot&descAlignY=60"/>
+# 👋 Hi, I'm Mohammed Sameer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=Hi+%F0%9F%91%8B+I'm+Mohammed+Sameer;Computer+Science+Engineering+Student;Backend+Developer;Java+Spring+Boot+Developer;Flutter+Developer;REST+API+Developer;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Backend+Developer;Java+Spring+Boot+Developer;Flutter+Developer;REST+API+Developer;PostgreSQL+%7C+Firebase;Always+Learning+New+Technologies" />
 
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="750"/>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Sameer9teen&style=for-the-badge&color=0e75b6"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+💻 Computer Science & Engineering Student
 
-```yaml
-Name          : Mohammed Sameer
+🚀 Passionate about Backend Development
 
-Degree        : B.E Computer Science & Engineering
+🌱 Currently Learning
 
-Role          : Backend Developer
+- Java Spring Boot
+- REST APIs
+- PostgreSQL
+- Flutter
+- Firebase
+- System Design
 
-Passionate    : Java • Spring Boot • Flutter
+⚡ Interests
 
-Currently     : Learning System Design & REST APIs
+- Backend Engineering
+- Mobile App Development
+- API Development
+- Database Design
+- Scalable Systems
 
-Databases     : PostgreSQL • MySQL • Firebase
+🎯 Goal
 
-Interests     :
-                - Backend Engineering
-                - Mobile Development
-                - Cloud Computing
-                - API Development
-                - Database Design
-
-Goal          :
-Become a Software Engineer building scalable
-applications used by millions.
-```
-
-<br>
+Become a Software Engineer building scalable backend systems.
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://linkedin.com/in/mohammed-sameer-3a0bb836b">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:mohammedsameersoftware@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://github.com/Sameer9teen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-# ⚡ Tech Arsenal
+# 💻 Tech Stack
 
-## 👨‍💻 Languages
+## Languages
 
-<div align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=java,python,dart,c,cpp&perline=5"/>
+<img src="https://skillicons.dev/icons?i=java,python,dart,c,cpp"/>
 
-</div>
-
----
-
-## 🚀 Backend
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,flask,django,firebase&perline=4"/>
-
-</div>
+</p>
 
 ---
 
-## 📱 Mobile
+## Backend
 
-<div align="center">
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,flask,django,firebase"/>
+
+</p>
+
+---
+
+## Mobile
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=flutter"/>
 
-</div>
+</p>
 
 ---
 
-## 🗄️ Database
+## Database
 
-<div align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
-</div>
+</p>
 
 ---
 
-## 🤖 Machine Learning
+## ML / Data Science
 
-<div align="center">
+<p>
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-<br><br>
+</p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-
 <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
+---
 
-</div>
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 
 ---
 
-## 🛠️ Tools & IDEs
+# 🚀 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,docker&perline=7"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer9teen&theme=tokyonight&hide_border=true"/>
 
-<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 📈 Most Used Languages
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient"/>
+<p align="center">
 
-### ⭐ Part 2 continues with GitHub Stats, Activity Graph, Snake Animation, 3D Contributions, GitHub Metrics, and more.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer9teen&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
-
-
-
-
----
-
-# 🚀 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Sameer9teen&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer9teen&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer9teen&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer9teen&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer9teen&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer9teen&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer9teen&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sameer9teen&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sameer9teen&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
-</div>
+</p>
 
 ---
 
-# ⚡ GitHub Metrics
+# 📊 Activity Graph
 
-<div align="center">
+<p align="center">
 
-<img width="95%" src="https://metrics.lecoq.io/Sameer9teen?template=classic&config.timezone=Asia%2FKolkata"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer9teen&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
+<p align="center">
 
-<img src="https://raw.githubusercontent.com/Sameer9teen/Sameer9teen/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
-
----
-
-# 🎮 Pac-Man Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Sameer9teen/Sameer9teen/output/pacman-contribution-graph-dark.svg"/>
-
-</div>
+</p>
 
 ---
 
-# 🌟 GitHub Achievements
+# ⚡ GitHub Metrics
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight"/>
 
-</div>
-
----
-
-# 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00FFFF/Sameer9teen"/>
-
-</div>
+</p>
 
 ---
 
+# 🔥 Profile Summary
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer9teen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer9teen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer9teen&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer9teen&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ✍ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 👀 Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sameer9teen&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=gradient"/>
+## ⭐ Thanks for Visiting!
 
-## ⭐ Continue to Part 3 ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Have+a+great+day!;Happy+Coding!"/>
 
 </div>
-
-
-
