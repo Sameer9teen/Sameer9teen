@@ -1,19 +1,29 @@
-<!-- ===========================
-        PREMIUM GITHUB PROFILE
-           PART 1
-=========================== -->
+<!-- =========================================================
+     PREMIUM GITHUB PROFILE README
+     MOHAMMED SAMEER
+========================================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:00F5FF,25:00D4FF,50:6C63FF,75:8A2BE2,100:FF0080&text=MOHAMMED%20SAMEER&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Backend%20Developer%20•%20Flutter%20Developer%20•%20Java%20Spring%20Boot&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:00D4FF,50:6C63FF,75:8A2BE2,100:FF0080&text=MOHAMMED%20SAMEER&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Backend%20Development%20%7C%20Flutter%20%7C%20Full%20Stack&descAlignY=60&descSize=20"/>
 
-</div>
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=950&lines=Computer+Science+%26+Engineering+Student;Backend+Developer;Java+Developer;Flutter+Application+Developer;Data+Analytics+Enthusiast;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Always+Learning+%7C+Always+Building" />
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hello World, I'm Mohammed Sameer
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=00F5FF&center=true&vCenter=true&repeat=true&width=950&lines=Computer+Science+Engineering+Student;Backend+Developer;Java+Spring+Boot+Developer;Flutter+Developer;REST+API+Developer;PostgreSQL+Developer;Firebase+Developer;Open+Source+Enthusiast;Always+Learning+New+Things..." />
+<a href="https://github.com/Sameer9teen">
+<img src="https://komarev.com/ghpvc/?username=Sameer9teen&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Sameer9teen?tab=followers">
+<img src="https://img.shields.io/github/followers/Sameer9teen?label=FOLLOWERS&style=for-the-badge&color=6C63FF"/>
+</a>
+
+<a href="https://github.com/Sameer9teen?tab=repositories">
+<img src="https://img.shields.io/github/stars/Sameer9teen?label=TOTAL%20STARS&style=for-the-badge&color=FF0080"/>
+</a>
 
 </div>
 
@@ -21,17 +31,35 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight" width="100%"/>
 
 </div>
 
 ---
 
-<div align="center">
+# 👋 Hello World, I'm Mohammed Sameer
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700"/>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-</div>
+🎓 **Computer Science & Engineering Student**
+
+💻 Passionate about **Backend Development & Software Engineering**
+
+📱 Building applications with **Flutter**
+
+☕ Developing software using **Java**
+
+📊 Interested in **Data Analytics**
+
+🗄️ Working with **PostgreSQL, MySQL & Firebase**
+
+🌐 Building and consuming **REST APIs**
+
+🔧 Using **Git & GitHub** for version control
+
+🚀 Focused on writing clean, scalable and maintainable applications
+
+<br clear="right"/>
 
 ---
 
@@ -39,148 +67,51 @@
 
 ```yaml
 Name        : Mohammed Sameer
-Education   : B.E Computer Science & Engineering
-Role        : Backend Developer
-Passionate  : Java | Spring Boot | Flutter | REST APIs
-Database    : PostgreSQL | MySQL | Firebase
-Interested  : Backend Engineering
-Learning    : System Design | Spring Security | Docker
-Goal        : Software Engineer
+Education   : B.E. Computer Science & Engineering
+Primary     : Backend Development
+Also        : Data Analytics | Flutter | Full Stack Development
+
+Programming :
+  - Java
+  - Python
+  - SQL
+
+Backend     :
+  - REST APIs
+  - Backend Development
+  - CRUD Operations
+  - Database Integration
+
+Mobile      :
+  - Flutter
+  - Dart
+  - Firebase
+
+Databases   :
+  - PostgreSQL
+  - MySQL
+  - Firebase
+
+Data        :
+  - Data Analytics
+  - Pandas
+  - NumPy
+  - Matplotlib
+  - Power BI
+  - Excel
+
+Tools       :
+  - Git
+  - GitHub
+  - VS Code
+  - IntelliJ IDEA
+  - Eclipse
+  - Postman
+
+Currently   :
+  - Improving Backend Development
+  - Learning System Design
+  - Exploring Scalable Applications
+
+Goal        : Become a skilled Software Engineer
 Location    : India 🇮🇳
-```
-
----
-
-## 🚀 What I'm Doing
-
-- 🔭 Building Backend Applications using Java Spring Boot
-
-- 📱 Developing Mobile Apps using Flutter
-
-- 🌐 Creating REST APIs
-
-- 🛢 Working with PostgreSQL & MySQL
-
-- 🔥 Learning Clean Architecture
-
-- ⚡ Improving Problem Solving
-
-- 📚 Exploring Scalable Systems
-
----
-
-## 🌎 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohammed-sameer-3a0bb836b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:mohammedsameersoftware@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Sameer9teen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-## 👨‍💻 Programming Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,dart,c,cpp&theme=dark"/>
-
-</div>
-
----
-
-## ⚙ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,flask,django,firebase&theme=dark"/>
-
-</div>
-
----
-
-## 📱 Mobile Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flutter&theme=dark"/>
-
-</div>
-
----
-
-## 🗄 Database
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase&theme=dark"/>
-
-</div>
-
----
-
-## 🤖 Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras"/>
-
-</div>
-
----
-
-## 🛠 Tools & Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman,docker&theme=dark"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer"/>
-
-### ⭐ Continue to **PART 2** ⭐
-
-</div>
