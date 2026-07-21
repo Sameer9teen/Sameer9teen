@@ -5,7 +5,9 @@
 
 <div align="center">
 
-<!-- HERO BANNER -->
+<!-- ========================================================= -->
+<!--                         HERO                              -->
+<!-- ========================================================= -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:00D4FF,50:6C63FF,75:8A2BE2,100:FF0080&text=MOHAMMED%20SAMEER&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Backend%20Development%20%7C%20Flutter%20%7C%20Full%20Stack&descAlignY=60&descSize=20"/>
 
@@ -13,7 +15,7 @@
 
 <!-- TYPING ANIMATION -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+Enthusiast;Backend+Developer;Java+Developer;Flutter+Application+Developer;Full+Stack+Developer;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Building+%7C+Learning+%7C+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+Enthusiast;Backend+Developer;Java+Developer;Flutter+Application+Developer;Full+Stack+Developer;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Building+%7C+Learning+%7C+Improving"/>
 
 <br><br>
 
@@ -46,24 +48,23 @@
 ---
 
 <!-- ========================================================= -->
-<!--                       NAVIGATION                          -->
+<!--                     QUICK NAVIGATION                      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-### 🧭 Quick Navigation
+## 🧭 Quick Navigation
 
-[👋 About Me](#-about-me) •
-[🚀 Focus](#-my-focus) •
-[💻 Skills](#-technical-skills) •
-[🛠 Tech Stack](#️-tech-stack) •
-[📊 Analytics](#-data-analytics) •
-[📱 Flutter](#-flutter-development) •
-[⚙ Backend](#️-backend-development) •
-[📈 GitHub](#-github-analytics) •
-[🏆 Trophies](#-github-trophies) •
-[📂 Projects](#-featured-projects) •
-[🌐 Connect](#-connect-with-me)
+<a href="#-about-me">👋 About Me</a> •
+<a href="#-my-focus">🚀 My Focus</a> •
+<a href="#-coding-mode">💻 Coding Mode</a> •
+<a href="#-technical-skills">🛠️ Technical Skills</a> •
+<a href="#️-tech-stack">⚙️ Tech Stack</a> •
+<a href="#-skills--knowledge">🧠 Skills</a> •
+<a href="#-featured-projects">📂 Projects</a> •
+<a href="#-github-analytics">📈 GitHub</a> •
+<a href="#-github-trophies">🏆 Trophies</a> •
+<a href="#-connect-with-me">🌐 Connect</a>
 
 </div>
 
@@ -81,6 +82,7 @@
 
 <table align="center">
 <tr>
+
 <td width="50%">
 
 ### 🎓 Education
@@ -106,9 +108,11 @@ Computer Science & Engineering
 🌐 Full Stack Development
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🧑‍💻 Experienced With
@@ -142,6 +146,7 @@ Become a skilled **Software Engineer** capable of building:
 • Efficient database systems
 
 </td>
+
 </tr>
 </table>
 
@@ -235,7 +240,23 @@ Application Development
 
 ---
 
-# 💻 Technical Skills
+# 💻 Coding Mode
+
+<div align="center">
+
+### 🧑‍💻 When the Code Finally Works...
+
+<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="600"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Code+%E2%86%92+Debug+%E2%86%92+Fix+%E2%86%92+Repeat;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80"/>
+
+</div>
+
+---
+
+# 🛠️ Technical Skills
 
 <div align="center">
 
@@ -285,13 +306,15 @@ Application Development
 
 ---
 
-# 🛠️ Tech Stack
+# ⚙️ Tech Stack
 
 ## ☕ Languages
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
@@ -607,16 +630,138 @@ Python • OpenCV • DeepPose
 
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║       🚀 BACKEND DEVELOPMENT                         ║
-║       ☕ JAVA & APPLICATION DEVELOPMENT              ║
-║       📱 FLUTTER APPLICATION DEVELOPMENT             ║
-║       🌐 REST API DEVELOPMENT                        ║
-║       🗄️ POSTGRESQL & DATABASE MANAGEMENT            ║
-║       📊 DATA ANALYTICS                              ║
-║       🧠 PROBLEM SOLVING                             ║
-║       📚 CONTINUOUS LEARNING                         ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+<table>
+
+<tr>
+
+<td align="center">
+
+🚀
+
+### Backend Development
+
+Java • REST APIs • Backend Systems
+
+</td>
+
+<td align="center">
+
+☕️
+
+### Java Development
+
+OOP • DSA • Application Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+📱
+
+### Flutter Development
+
+Flutter • Dart • Firebase
+
+</td>
+
+<td align="center">
+
+🗄️
+
+### Database Development
+
+PostgreSQL • MySQL • Database Design
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+📊
+
+### Data Analytics
+
+Python • Pandas • Excel • Power BI
+
+</td>
+
+<td align="center">
+
+📚
+
+### Continuous Learning
+
+Problem Solving • System Design • Software Engineering
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# ✍️ Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Sameer9teen&style=for-the-badge&color=blueviolet"/>
+
+<br><br>
+
+<img src="https://img.shields.io/github/last-commit/Sameer9teen/Sameer9teen?style=for-the-badge&color=00F5FF"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohammed-sameer-3a0bb836b">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:mohammedsameersoftware@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Sameer9teen">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for Visiting My GitHub Profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing!;Happy+Coding!+%F0%9F%92%BB"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C63FF,100:FF0080&height=150&section=footer"/>
+
+</div>
