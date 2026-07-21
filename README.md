@@ -1,184 +1,369 @@
-<div align="center">
-
-# 👋 Hi, I'm Mohammed Sameer
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+Enthusiast;Backend+Developer;Java+Developer;Flutter+Application+Developer;Full+Stack+Developer;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Always+Learning+New+Technologies" />
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-💻 Computer Science & Engineering Student
-
-🚀 Passionate about **Data Analytics, Backend Development, Flutter Application Development, and Full Stack Development**
-
-☕ Experienced in working with **Java, Flutter, PostgreSQL, and Firebase**
-
-📊 Interested in **Data Analytics and Data Visualization**
-
-🌐 Interested in building and working with **REST APIs and Backend Systems**
-
-🗄️ Experienced with **PostgreSQL, MySQL, Firebase, and Database Management**
-
-🔧 Familiar with **Git and GitHub** for version control and project collaboration
-
-🌱 Continuously improving my programming, development, database, and analytical skills
-
-🎯 **Goal**
-
-Become a skilled **Software Engineer** capable of building reliable applications, scalable backend systems, and data-driven solutions.
-
----
-
-# 🚀 Areas of Interest
+<!-- ========================================================= -->
+<!--                 PREMIUM GITHUB PROFILE                    -->
+<!--                    MOHAMMED SAMEER                        -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analytics-00F5FF?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
+<!-- HERO BANNER -->
 
-<img src="https://img.shields.io/badge/Backend%20Development-6C63FF?style=for-the-badge&logo=serverless&logoColor=white"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00F5FF,25:00D4FF,50:6C63FF,75:8A2BE2,100:FF0080&text=MOHAMMED%20SAMEER&fontColor=ffffff&fontSize=58&fontAlignY=38&animation=fadeIn&desc=Data%20Analytics%20%7C%20Backend%20Development%20%7C%20Flutter%20%7C%20Full%20Stack&descAlignY=60&descSize=20"/>
 
-<img src="https://img.shields.io/badge/Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<br>
 
-<img src="https://img.shields.io/badge/Full%20Stack%20Development-8A2BE2?style=for-the-badge&logo=web&logoColor=white"/>
+<!-- TYPING ANIMATION -->
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&repeat=true&width=1000&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+Enthusiast;Backend+Developer;Java+Developer;Flutter+Application+Developer;Full+Stack+Developer;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Building+%7C+Learning+%7C+Improving" />
 
----
+<br><br>
 
-# 🌐 Connect With Me
+<!-- PROFILE BADGES -->
 
-<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Sameer9teen&label=PROFILE%20VIEWS&color=00F5FF&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/Sameer9teen?label=FOLLOWERS&style=for-the-badge&color=6C63FF"/>
+
+<img src="https://img.shields.io/github/stars/Sameer9teen?label=TOTAL%20STARS&style=for-the-badge&color=FF0080"/>
+
+<br><br>
+
+<!-- SOCIAL LINKS -->
+
+<a href="https://github.com/Sameer9teen">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://linkedin.com/in/mohammed-sameer-3a0bb836b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohammedsameersoftware@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/Sameer9teen">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# 💻 Tech Stack
-
-## ☕ Programming Languages
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
-
-</p>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
 ---
 
-## ⚙️ Backend Development
+<!-- ========================================================= -->
+<!--                       NAVIGATION                          -->
+<!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
+
+### 🧭 Quick Navigation
+
+[👋 About Me](#-about-me) •
+[🚀 Focus](#-my-focus) •
+[💻 Skills](#-technical-skills) •
+[🛠 Tech Stack](#️-tech-stack) •
+[📊 Analytics](#-data-analytics) •
+[📱 Flutter](#-flutter-development) •
+[⚙ Backend](#️-backend-development) •
+[📈 GitHub](#-github-analytics) •
+[🏆 Trophies](#-github-trophies) •
+[📂 Projects](#-featured-projects) •
+[🌐 Connect](#-connect-with-me)
+
+</div>
+
+---
+
+# 👋 About Me
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600"/>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%">
+
+### 🎓 Education
+
+**Bachelor of Engineering**
+
+Computer Science & Engineering
+
+🇮🇳 India
+
+</td>
+
+<td width="50%">
+
+### 💻 Professional Interests
+
+🚀 Backend Development
+
+📊 Data Analytics
+
+📱 Flutter Development
+
+🌐 Full Stack Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧑‍💻 Experienced With
+
+☕ Java
+
+📱 Flutter
+
+🗄️ PostgreSQL
+
+🔥 Firebase
+
+🐍 Python
+
+💾 MySQL
+
+</td>
+
+<td width="50%">
+
+### 🎯 Career Goal
+
+Become a skilled **Software Engineer** capable of building:
+
+• Reliable applications
+
+• Scalable backend systems
+
+• Data-driven solutions
+
+• Efficient database systems
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 My Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 📊
+
+## Data Analytics
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Excel
+
+Power BI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+## Backend
+
+Java
+
+REST APIs
+
+CRUD
+
+Database Integration
+
+Backend Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+## Flutter
+
+Flutter
+
+Dart
+
+Firebase
+
+Mobile Apps
+
+API Integration
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐
+
+## Full Stack
+
+Frontend
+
+Backend
+
+APIs
+
+Databases
+
+Application Development
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 💻 Technical Skills
+
+<div align="center">
+
+### ☕ Programming
+
+<img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⚙️ Backend Development
 
 <img src="https://skillicons.dev/icons?i=java,spring,python,flask&theme=dark"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/REST%20API-Development-00A8E8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/CRUD-Operations-6C63FF?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Backend-Development-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Engineering-8A2BE2?style=for-the-badge"/>
 
-</p>
+</div>
 
----
+<br>
 
-## 📱 Flutter Application Development
+<div align="center">
 
-<p align="center">
+### 📱 Flutter Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
 
-</p>
+<br><br>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Flutter-Mobile%20Application%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Firebase-Application%20Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
-</p>
-
----
-
-## 🗄️ Database & Backend Services
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Applications-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Firebase-Backend%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
-</p>
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+## ☕ Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚙️ Backend & APIs
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=spring,flask&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/REST%20API-Development-00A8E8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/API-Integration-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRUD-Operations-6C63FF?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</div>
 
 ---
 
 ## 📊 Data Analytics
 
-<p align="center">
+<div align="center">
 
 <img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
-</p>
+<br><br>
 
-<p align="center">
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</p>
+</div>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Development Tools
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman&theme=dark"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -186,33 +371,163 @@ Become a skilled **Software Engineer** capable of building reliable applications
 
 <img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
-# 📚 Skills & Knowledge
+# 🧠 Skills & Knowledge
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-6C63FF?style=for-the-badge"/>
+<table>
 
-<img src="https://img.shields.io/badge/Database%20Management-DBMS-00A8E8?style=for-the-badge"/>
+<tr>
 
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-8A2BE2?style=for-the-badge"/>
+<td align="center">
 
-<br><br>
+### ☕ OOP
 
-<img src="https://img.shields.io/badge/API-Integration-00C853?style=for-the-badge"/>
+Object-Oriented Programming
 
-<img src="https://img.shields.io/badge/Database-Design-FF0080?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/Software-Development-FF6F00?style=for-the-badge"/>
+<td align="center">
+
+### 🗄️ DBMS
+
+Database Management
+
+</td>
+
+<td align="center">
+
+### 🧩 DSA
+
+Data Structures & Algorithms
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 🌐 APIs
+
+REST API Integration
+
+</td>
+
+<td align="center">
+
+### 🛢️ Database
+
+Database Design
+
+</td>
+
+<td align="center">
+
+### 💻 Software
+
+Software Development
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-# 🚀 GitHub Stats
+# 📂 Featured Projects
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📦 Inventory Management System
+
+**Technology Stack**
+
+Flutter • Firebase • PostgreSQL
+
+📱 Mobile Application
+
+🗄️ Database Management
+
+🔄 CRUD Operations
+
+</td>
+
+<td width="50%">
+
+### ✈️ AI-Based Flight Booking Chatbot
+
+**Technology Stack**
+
+Python • Flask
+
+🤖 AI-based chatbot
+
+🌐 Backend Development
+
+🔗 API-based architecture
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 📊 Mall Customer Segmentation
+
+**Technology Stack**
+
+Python • Pandas • NumPy
+
+📈 Data Analytics
+
+📊 Customer Segmentation
+
+🔍 Data Analysis
+
+</td>
+
+<td width="50%">
+
+### 🧍 Human Pose Estimation
+
+**Technology Stack**
+
+Python • OpenCV • DeepPose
+
+🧠 Computer Vision
+
+📷 Image Processing
+
+🤖 Pose Estimation
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🚀 GitHub Analytics
 
 <div align="center">
 
@@ -246,84 +561,62 @@ Become a skilled **Software Engineer** capable of building reliable applications
 
 ---
 
-# 📊 Activity Graph
+# 📊 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer9teen&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sameer9teen&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 
-</p>
+</div>
 
 ---
 
 # ⚡ GitHub Profile Summary
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sameer9teen&theme=tokyonight" width="95%"/>
 
-</p>
-
----
-
-# 🔥 GitHub Activity Overview
-
-<p align="center">
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer9teen&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer9teen&theme=tokyonight"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer9teen&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sameer9teen&theme=tokyonight"/>
 
-</p>
+</div>
 
 ---
 
-# ✍️ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sameer9teen&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
+# 🎯 Current Focus
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My GitHub Profile!
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=750&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing!;Happy+Coding!"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C63FF,100:FF0080&height=120&section=footer"/>
-
-</div>
+```text
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║       🚀 BACKEND DEVELOPMENT                         ║
+║       ☕ JAVA & APPLICATION DEVELOPMENT              ║
+║       📱 FLUTTER APPLICATION DEVELOPMENT             ║
+║       🌐 REST API DEVELOPMENT                        ║
+║       🗄️ POSTGRESQL & DATABASE MANAGEMENT            ║
+║       📊 DATA ANALYTICS                              ║
+║       🧠 PROBLEM SOLVING                             ║
+║       📚 CONTINUOUS LEARNING                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
