@@ -57,7 +57,6 @@
 
 <a href="#-about-me">👋 About Me</a> •
 <a href="#-my-focus">🚀 My Focus</a> •
-<a href="#-coding-mode">💻 Coding Mode</a> •
 <a href="#️-technical-skills">🛠️ Technical Skills</a> •
 <a href="#️-tech-stack">⚙️ Tech Stack</a> •
 <a href="#-skills--knowledge">🧠 Skills</a> •
@@ -235,31 +234,6 @@ Become a skilled **Software Engineer** capable of building:
 
 </tr>
 </table>
-
-</div>
-
----
-
-# 💻 Coding Mode
-
-<div align="center">
-
-### 🧑‍💻 When the Code Finally Works...
-
-<!--
-IMPORTANT:
-Upload your Jim Carrey typing GIF to:
-
-assets/jim-carrey-typing.gif
-
-Then this image will automatically appear here.
--->
-
-<img src="./assets/jim-carrey-typing.gif" width="600" alt="Jim Carrey Typing Coding Meme"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Code+%E2%86%92+Debug+%E2%86%92+Fix+%E2%86%92+Repeat;Keep+Coding+%F0%9F%92%BB;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80"/>
 
 </div>
 
