@@ -214,33 +214,35 @@ Become a skilled **Software Engineer** capable of building reliable applications
 
 # 🚀 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" width="70%"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer9teen&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer9teen&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
 
 ---
 
 # 📈 Most Used Languages
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer9teen&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sameer9teen&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sameer9teen&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sameer9teen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2" width="90%"/>
 
-</p>
+</div>
 
 ---
 
