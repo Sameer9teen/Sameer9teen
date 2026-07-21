@@ -1,8 +1,8 @@
-<<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Mohammed Sameer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Backend+Developer;Java+Spring+Boot+Developer;Flutter+Developer;REST+API+Developer;PostgreSQL+%7C+Firebase;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Computer+Science+%26+Engineering+Student;Data+Analytics+Enthusiast;Backend+Developer;Java+Developer;Flutter+Application+Developer;Full+Stack+Developer;REST+API+Developer;PostgreSQL+%7C+MySQL+%7C+Firebase;Always+Learning+New+Technologies" />
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650"/>
 
@@ -14,28 +14,39 @@
 
 💻 Computer Science & Engineering Student
 
-🚀 Passionate about Backend Development
+🚀 Passionate about **Data Analytics, Backend Development, Flutter Application Development, and Full Stack Development**
 
-🌱 Currently Learning
+☕ Experienced in working with **Java, Flutter, PostgreSQL, and Firebase**
 
-- Java Spring Boot
-- REST APIs
-- PostgreSQL
-- Flutter
-- Firebase
-- System Design
+📊 Interested in **Data Analytics and Data Visualization**
 
-⚡ Interests
+🌐 Interested in building and working with **REST APIs and Backend Systems**
 
-- Backend Engineering
-- Mobile App Development
-- API Development
-- Database Design
-- Scalable Systems
+🗄️ Experienced with **PostgreSQL, MySQL, Firebase, and Database Management**
 
-🎯 Goal
+🔧 Familiar with **Git and GitHub** for version control and project collaboration
 
-Become a Software Engineer building scalable backend systems.
+🌱 Continuously improving my programming, development, database, and analytical skills
+
+🎯 **Goal**
+
+Become a skilled **Software Engineer** capable of building reliable applications, scalable backend systems, and data-driven solutions.
+
+---
+
+# 🚀 Areas of Interest
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Analytics-00F5FF?style=for-the-badge&logo=googleanalytics&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Backend%20Development-6C63FF?style=for-the-badge&logo=serverless&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Development-8A2BE2?style=for-the-badge&logo=web&logoColor=white"/>
+
+</div>
 
 ---
 
@@ -44,15 +55,15 @@ Become a Software Engineer building scalable backend systems.
 <p align="center">
 
 <a href="https://linkedin.com/in/mohammed-sameer-3a0bb836b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:mohammedsameersoftware@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sameer9teen">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -61,73 +72,143 @@ Become a Software Engineer building scalable backend systems.
 
 # 💻 Tech Stack
 
-## Languages
+## ☕ Programming Languages
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,dart,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
+
+</p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,python,flask&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/REST%20API-Development-00A8E8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CRUD-Operations-6C63FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Backend-Development-8A2BE2?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Backend
+## 📱 Flutter Application Development
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=spring,flask,django,firebase"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Flutter-Mobile%20Application%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-Application%20Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
 ---
 
-## Mobile
+## 🗄️ Database & Backend Services
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-Backend%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
 ---
 
-## Database
+## 📊 Data Analytics
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+<img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </p>
 
 ---
 
-## ML / Data Science
+## 🧰 Tools & Technologies
 
-<p>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman&theme=dark"/>
 
 </p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Code%20Hosting-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-API%20Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
 
 ---
 
-## Tools
+# 📚 Skills & Knowledge
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse"/>
+<img src="https://img.shields.io/badge/Object%20Oriented%20Programming-OOP-6C63FF?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/Database%20Management-DBMS-00A8E8?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-DSA-8A2BE2?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/API-Integration-00C853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Database-Design-FF0080?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Software-Development-FF6F00?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -135,7 +216,7 @@ Become a Software Engineer building scalable backend systems.
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sameer9teen&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer9teen&theme=tokyonight&hide_border=true"/>
 
@@ -183,7 +264,7 @@ Become a Software Engineer building scalable backend systems.
 
 ---
 
-# ⚡ GitHub Metrics
+# ⚡ GitHub Profile Summary
 
 <p align="center">
 
@@ -193,13 +274,17 @@ Become a Software Engineer building scalable backend systems.
 
 ---
 
-# 🔥 Profile Summary
+# 🔥 GitHub Activity Overview
 
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sameer9teen&theme=tokyonight"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sameer9teen&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sameer9teen&theme=tokyonight"/>
 
@@ -209,7 +294,7 @@ Become a Software Engineer building scalable backend systems.
 
 ---
 
-# ✍ Random Dev Quote
+# ✍️ Random Dev Quote
 
 <p align="center">
 
@@ -219,7 +304,7 @@ Become a Software Engineer building scalable backend systems.
 
 ---
 
-# 👀 Visitors
+# 👀 Profile Visitors
 
 <p align="center">
 
@@ -231,8 +316,12 @@ Become a Software Engineer building scalable backend systems.
 
 <div align="center">
 
-## ⭐ Thanks for Visiting!
+## ⭐ Thanks for Visiting My GitHub Profile!
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting+my+GitHub!;Have+a+great+day!;Happy+Coding!"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&width=750&lines=Thanks+for+visiting+my+GitHub!;Let's+Build+Something+Amazing!;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing!;Happy+Coding!"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:6C63FF,100:FF0080&height=120&section=footer"/>
 
 </div>
