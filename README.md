@@ -58,7 +58,7 @@
 <a href="#-about-me">👋 About Me</a> •
 <a href="#-my-focus">🚀 My Focus</a> •
 <a href="#-coding-mode">💻 Coding Mode</a> •
-<a href="#-technical-skills">🛠️ Technical Skills</a> •
+<a href="#️-technical-skills">🛠️ Technical Skills</a> •
 <a href="#️-tech-stack">⚙️ Tech Stack</a> •
 <a href="#-skills--knowledge">🧠 Skills</a> •
 <a href="#-featured-projects">📂 Projects</a> •
@@ -165,17 +165,17 @@ Become a skilled **Software Engineer** capable of building:
 
 ## Data Analytics
 
-Python
+🐍 Python
 
-Pandas
+🐼 Pandas
 
-NumPy
+🔢 NumPy
 
-Matplotlib
+📈 Matplotlib
 
-Excel
+📗 Excel
 
-Power BI
+📊 Power BI
 
 </td>
 
@@ -185,15 +185,15 @@ Power BI
 
 ## Backend
 
-Java
+☕ Java
 
-REST APIs
+🌐 REST APIs
 
-CRUD
+🔄 CRUD
 
-Database Integration
+🗄️ Database Integration
 
-Backend Systems
+⚡ Backend Systems
 
 </td>
 
@@ -203,15 +203,15 @@ Backend Systems
 
 ## Flutter
 
-Flutter
+💙 Flutter
 
-Dart
+🎯 Dart
 
-Firebase
+🔥 Firebase
 
-Mobile Apps
+📱 Mobile Apps
 
-API Integration
+🔗 API Integration
 
 </td>
 
@@ -221,15 +221,15 @@ API Integration
 
 ## Full Stack
 
-Frontend
+🎨 Frontend
 
-Backend
+⚙️ Backend
 
-APIs
+🔗 APIs
 
-Databases
+🗄️ Databases
 
-Application Development
+🚀 Application Development
 
 </td>
 
@@ -246,7 +246,16 @@ Application Development
 
 ### 🧑‍💻 When the Code Finally Works...
 
-<img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="600"/>
+<!--
+IMPORTANT:
+Upload your Jim Carrey typing GIF to:
+
+assets/jim-carrey-typing.gif
+
+Then this image will automatically appear here.
+-->
+
+<img src="./assets/jim-carrey-typing.gif" width="600" alt="Jim Carrey Typing Coding Meme"/>
 
 <br><br>
 
@@ -260,13 +269,13 @@ Application Development
 
 <div align="center">
 
-### ☕ Programming
+### ☕ Programming Languages
 
 <img src="https://skillicons.dev/icons?i=java,python,dart&theme=dark"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Querying-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 </div>
 
@@ -276,7 +285,7 @@ Application Development
 
 ### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,flask&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,flask&theme=dark"/>
 
 <br><br>
 
@@ -292,9 +301,9 @@ Application Development
 
 <div align="center">
 
-### 📱 Flutter Development
+### 📱 Flutter Application Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
 
 <br><br>
 
@@ -340,7 +349,7 @@ Application Development
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Databases & Backend Services
 
 <div align="center">
 
@@ -348,11 +357,11 @@ Application Development
 
 <br><br>
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-Backend%20Services-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </div>
 
@@ -364,17 +373,17 @@ Application Development
 
 <img src="https://img.shields.io/badge/Python-Data%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-11557C?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 </div>
 
@@ -406,7 +415,7 @@ Application Development
 
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### ☕ OOP
 
@@ -414,7 +423,7 @@ Object-Oriented Programming
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🗄️ DBMS
 
@@ -422,7 +431,7 @@ Database Management
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
 ### 🧩 DSA
 
@@ -480,7 +489,7 @@ Software Development
 
 **Technology Stack**
 
-Flutter • Firebase • PostgreSQL
+`Flutter` • `Firebase` • `PostgreSQL`
 
 📱 Mobile Application
 
@@ -496,13 +505,13 @@ Flutter • Firebase • PostgreSQL
 
 **Technology Stack**
 
-Python • Flask
+`Python` • `Flask`
 
-🤖 AI-based chatbot
+🤖 AI-Based Chatbot
 
 🌐 Backend Development
 
-🔗 API-based architecture
+🔗 API-Based Architecture
 
 </td>
 
@@ -516,7 +525,7 @@ Python • Flask
 
 **Technology Stack**
 
-Python • Pandas • NumPy
+`Python` • `Pandas` • `NumPy`
 
 📈 Data Analytics
 
@@ -532,7 +541,7 @@ Python • Pandas • NumPy
 
 **Technology Stack**
 
-Python • OpenCV • DeepPose
+`Python` • `OpenCV` • `DeepPose`
 
 🧠 Computer Vision
 
@@ -634,7 +643,7 @@ Python • OpenCV • DeepPose
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 🚀
 
@@ -644,7 +653,7 @@ Java • REST APIs • Backend Systems
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 ☕️
 
